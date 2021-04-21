@@ -1,5 +1,5 @@
 # Machine learning
-''' It is a branch of science which gives computer a ability to learn without being explicitly programmed'''
+''' bash It is a branch of science which gives computer a ability to learn without being explicitly programmed '''
 
 
 ## supervised learning algorithm
