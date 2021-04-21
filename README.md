@@ -1,7 +1,7 @@
 # Machine learning
 
 
- ##supervised learning algorithm
+#supervised learning algorithm
  
      #Regression  problems
        1.Simple Linear regression
