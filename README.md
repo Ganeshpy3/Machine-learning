@@ -8,4 +8,4 @@
        2.Multiple Linear regression
        3.Polynomial regresion
      Classification problems
-       5.Logistic regression
+       1.Logistic regression
