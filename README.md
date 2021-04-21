@@ -1,7 +1,7 @@
 # Machine learning
-''' bash
+``` bash
 It is a branch of science which gives computer a ability to learn without being explicitly programmed 
-'''
+```
 
 
 ## supervised learning algorithm
