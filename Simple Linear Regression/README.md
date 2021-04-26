@@ -16,3 +16,7 @@
         Y_mean -Mean of dependent variable 
 
 
+     C=Y-M*X
+     
+     
+     ### Normal equation
