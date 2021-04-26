@@ -22,3 +22,5 @@
      
      
   - Normal equation
+         
+         theta=(X*X.T)^-1*(X.T*Y)
