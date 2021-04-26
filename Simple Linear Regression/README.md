@@ -3,22 +3,22 @@
 ## Formula 
  - Least Square Method
 
-    Y=M*X+C
+       Y=M*X+C
     
     
-        Σ((X-X_mean)*(Y-Y_mean)) 
-    M = _________________________ 
-              Σ(X-X_mean)^2 
+               Σ((X-X_mean)*(Y-Y_mean)) 
+       M  =  _________________________ 
+                  Σ(X-X_mean)^2 
              
              
-    where as,
-        X      -Independent variable 
-        X_mean -Mean of Independent variable 
-        Y      -Dependent variable 
-        Y_mean -Mean of dependent variable 
+       where as,
+          X      -Independent variable 
+          X_mean -Mean of Independent variable 
+          Y      -Dependent variable 
+          Y_mean -Mean of dependent variable 
 
 
-     C=Y-M*X
+        C=Y-M*X
      
      
   - Normal equation
