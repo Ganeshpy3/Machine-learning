@@ -4,6 +4,10 @@
  - Least Square Method
 
        Y=M*X+C
+        
+        where as ,
+             M   -Slope
+             C   -Intercept
     
     
                Σ((X-X_mean)*(Y-Y_mean)) 
@@ -24,3 +28,8 @@
   - Normal equation
          
          theta=(X*X.T)^-1*(X.T*Y)
+         
+         where as ,
+              X  -Independent variable 
+              Y  -Dependent variable 
+              
