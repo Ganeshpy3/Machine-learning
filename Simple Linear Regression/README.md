@@ -1,6 +1,8 @@
 # Simple linear regression 
 > When our dependent variable  is  linear  and our feature od independent value is one we use simple linear regression
 ## Formula 
+ - Least Square Method
+
     Y=M*X+C
     
     
@@ -19,4 +21,4 @@
      C=Y-M*X
      
      
-   ### Normal equation
+   - Normal equation
