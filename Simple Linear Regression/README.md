@@ -1,5 +1,5 @@
 # Simple linear regression 
-> When our dependent variable  is  linear  and our feature od independent value is one we use simple linear regression
+> When our dependent variable  is  linear  and our feature of independent value is one we use simple linear regression
 ## Formula 
  - Least Square Method
 
