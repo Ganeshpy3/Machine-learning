@@ -32,9 +32,9 @@
          where as ,
               X  -Independent variable 
               Y  -Dependent variable 
-##Library used
-      -matplotlib -->
-      -pandas
-      -numpy
-      -sklearn
+## Library used
+   - matplotlib -->
+   - pandas
+   - numpy
+   - sklearn
       
