@@ -5,14 +5,14 @@
     
     
         Σ((X-X_mean)*(Y-Y_mean)) 
-     M= _________________________ 
+    M = _________________________ 
               Σ(X-X_mean)^2 
              
              
     where as,
-        X     -Independent variable 
-        X_mean-Mean of Independent variable 
-        Y     -Dependent variable 
-        Y_mean-Mean of dependent variable 
+        X      -Independent variable 
+        X_mean -Mean of Independent variable 
+        Y      -Dependent variable 
+        Y_mean -Mean of dependent variable 
 
 
