@@ -1,7 +1,7 @@
 # Machine learning
-``` 
-It is a branch of science which gives computer a ability to learn without being explicitly programmed 
-```
+ 
+**It is a branch of science which gives computer a ability to learn without being explicitly programmed**
+
 
 
 ## Supervised learning algorithm
