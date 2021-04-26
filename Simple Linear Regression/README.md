@@ -21,4 +21,4 @@
      C=Y-M*X
      
      
-   - Normal equation
+  - Normal equation
