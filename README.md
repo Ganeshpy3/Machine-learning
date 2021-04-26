@@ -6,10 +6,10 @@
 
 ## Supervised learning algorithm
 ### Regression  problems
-  1. Simple Linear regression [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Logistic%20Regression)
-  2. Multiple Linear regression
-  3. Polynomial regresion
-  4. Ridge regression
+  1. Simple Linear regression [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Simple%20Linear%20Regression)
+  2. Multiple Linear regression  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Multiple%20Linear%20Regression)
+  3. Polynomial regresion  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Polynomial%20Regression)
+  4. Ridge regression  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Ridge%20Regression)
   5.
 ### Classification problems
-   1. Logistic regression
+   1. Logistic regression  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Logistic%20Regression)
