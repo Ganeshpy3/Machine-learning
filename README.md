@@ -5,6 +5,11 @@
 
 
 ## Supervised learning algorithm
+we use supervised learning algorithm when our dataset having labeled data
+
+
+
+
 ### Regression  problems
   1. Simple Linear regression [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Simple%20Linear%20Regression)
   2. Multiple Linear regression  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Multiple%20Linear%20Regression)
