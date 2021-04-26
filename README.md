@@ -1,5 +1,5 @@
 # Machine learning
-``` bash
+``` 
 It is a branch of science which gives computer a ability to learn without being explicitly programmed 
 ```
 
