@@ -4,6 +4,14 @@
 
 
 
+
+
+##Packages used
+  -numpy
+  -pandas
+  -matplotlib
+  -sklearn
+
 ## Supervised learning algorithm
 we use supervised learning algorithm when our dataset having labeled data
 
