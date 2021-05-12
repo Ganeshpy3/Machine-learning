@@ -1,5 +1,5 @@
 
 ## Tumors classification using KNN algorithm
 ### Diagonisis:
-          -- M: Malignant
-          -- B: Benign
+- M: Malignant
+- B: Benign
