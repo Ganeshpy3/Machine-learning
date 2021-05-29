@@ -28,7 +28,7 @@ we use supervised learning algorithm when our dataset having labeled data
    1. Logistic regression  [-->](https://github.com/ganeshpython/Machine-learning/tree/master/Logistic%20Regression)
    2. Decision Tree [-->](https://github.com/Ganeshpy3/Machine-learning/tree/master/Decision%20tree)
    3. KNN [-->](https://github.com/Ganeshpy3/Machine-learning/tree/master/KNN)
-   4. Support vector classification[-->]
+   4. Support vector classification[-->](https://github.com/Ganeshpy3/Machine-learning/blob/master/Support%20Vector%20Machine/SVM/svm.ipynb)
 
 
 
