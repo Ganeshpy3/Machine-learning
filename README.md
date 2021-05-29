@@ -13,7 +13,7 @@
   - sklearn
 
 ## Supervised learning algorithm
-we use supervised learning algorithm when our dataset having labeled data
+ When datasets conatain label for there features then we use supervised learning Algorithm
 
 
 
