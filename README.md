@@ -33,6 +33,6 @@ we use supervised learning algorithm when our dataset having labeled data
 
 
 
-# Unsupervised_Learning
-## Clustering
+## Unsupervised_Learning
+### Clustering
    1. K-Means Clustering
