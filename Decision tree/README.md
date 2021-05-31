@@ -6,6 +6,7 @@
 ## Criteria
    1. Gini
    2. Entropy
+### Gini 
 
 
 
