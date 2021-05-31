@@ -3,9 +3,9 @@
 
 
 
-## criteria
-   1 Gini
-   2 Entropy
+## Criteria
+   1. Gini
+   2. Entropy
 tutorials [-->](https://youtu.be/LDRbO9a6XPU)
 
   Decision tree classifier[Youtube](https://youtu.be/ZVR2Way4nwQ)
