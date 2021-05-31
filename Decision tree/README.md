@@ -7,6 +7,10 @@
    1. Gini
    2. Entropy
 ### Gini 
+` 1-Σ(p)^2
+  p-probability of values
+`
+
 
 
 
