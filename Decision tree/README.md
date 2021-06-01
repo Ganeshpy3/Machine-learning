@@ -9,6 +9,9 @@
 ### Gini 
 ` 1-Σ(p)^2`
   p-probability of values
+  
+### Entropy
+  `-Σ plog(p)
 
 
 
