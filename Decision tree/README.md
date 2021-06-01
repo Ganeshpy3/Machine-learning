@@ -11,7 +11,7 @@
   p-probability of values
   
 ### Entropy
-  `-Σ plog(p)
+  `-Σ plog2(p)
 
 
 
