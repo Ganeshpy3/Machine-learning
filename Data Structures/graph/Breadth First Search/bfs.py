@@ -10,10 +10,9 @@ class Graph:
             self.data[v2].append(v1)
 
     def print(self):
-        length=0
+        
         for i in range(len(self.data)):
             if len(self.data[i])>0:
-                length +=1
                 print(f"{i}:{self.data[i]}")
         return length
 
@@ -21,7 +20,7 @@ class Graph:
 
 
 g1=Graph(nodes,edges)
-leng=g1.print()
+g1.print()
 
 
 def bfs(graph, source):
