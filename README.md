@@ -13,7 +13,7 @@
   - sklearn
 
 ## Supervised learning algorithm
- When datasets contains label for there features then we use supervised learning Algorithm
+ Supervised learning is the machine learning task of learning a function that maps an input to an output based on example input-output pairs.
 
 
 
