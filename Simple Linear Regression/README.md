@@ -35,8 +35,10 @@
               
               
 ### Metrics 
-        R Squared
-           R-squared is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination, or the coefficient              of multiple determination for multiple regression.
+       R Squared
+           R-squared is a statistical measure of how close the data are to the fitted regression line.
+           It is also known as the coefficient of determination, or the coefficient of multiple 
+           determination for multiple regression.
 ## Library used
    - matplotlib -->
    - pandas
